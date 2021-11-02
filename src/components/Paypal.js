@@ -3,7 +3,6 @@ import ReactDOM from "react-dom"
 
 import _ from 'lodash';
 
-const PayPalButton = paypal.Buttons.driver("react", { React, ReactDOM });
 
 export default class Paypal extends React.Component {
 
