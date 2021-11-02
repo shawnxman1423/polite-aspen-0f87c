@@ -1,0 +1,135 @@
+{
+    "layout_type": "full-width",
+    "style": "classic",
+    "palette": "blue",
+    "mode": "dark",
+    "base_font": "sans-serif",
+    "header": {
+        "title": "Inspro - Free Instagram Bot",
+        "logo": "images/icon_with_name-svg (1)-6d4c6e76.webp",
+        "logo_alt": "Inspro - Free Instagram Bot Logo",
+        "has_primary_nav": false,
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
+                "label": "Pricing",
+                "url": "/pricing",
+                "style": "link"
+            },
+            {
+                "label": "Support",
+                "url": "/support",
+                "style": "link"
+            },
+            {
+                "label": "Get Started",
+                "url": "/get-started",
+                "style": "primary",
+                "has_icon": false
+            }
+        ],
+        "has_anncmnt": false,
+        "anncmnt_is_home_only": true,
+        "anncmnt_content": "Join our Telegram to get your 50% off right now!🚀\n\n",
+        "anncmnt_align": "center",
+        "anncmnt_has_close": true,
+        "anncmnt_id": "discount",
+        "primary_nav_links": []
+    },
+    "footer": {
+        "logo_alt": "YourGoal logo",
+        "has_primary_nav": true,
+        "primary_nav_title": "Service",
+        "primary_nav_links": [
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
+                "label": "Pricing",
+                "url": "/pricing",
+                "style": "link"
+            },
+            {
+                "label": "Support",
+                "url": "/support",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": false,
+        "secondary_nav_title": "Blog",
+        "secondary_nav_links": [
+            {
+                "label": "News",
+                "url": "/blog/category/news",
+                "style": "link"
+            },
+            {
+                "label": "Tips",
+                "url": "/blog/category/tips",
+                "style": "link"
+            },
+            {
+                "label": "Use Cases",
+                "url": "/blog/category/use-cases",
+                "style": "link"
+            }
+        ],
+        "has_tertiary_nav": true,
+        "tertiary_nav_title": "Resources",
+        "tertiary_nav_links": [
+            {
+                "label": "Terms & Conditions",
+                "url": "/terms-conditions",
+                "style": "link"
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/InsproA",
+                "style": "link",
+                "has_icon": true,
+                "icon": "twitter",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "YouTube",
+                "url": "https://www.youtube.com/channel/UCyipxLQjqVK3A2k1UUvw4UQ/videos",
+                "style": "link",
+                "has_icon": true,
+                "icon": "youtube",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/InsproGrowth",
+                "style": "link",
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "right",
+                "new_window": true,
+                "no_follow": false
+            }
+        ],
+        "content": "© 2021 Inspro All Rights Reserved. Inspro is not affiliated with Instagram™ or Facebook Inc. in any way.",
+        "logo": "images/icon_with_name-svg (1).webp"
+    },
+    "title": "Inspro",
+    "domain": "https://diligent-cedar-46432.netlify.app",
+    "favicon": "images/whatshot_white_48dp-fcc8d096.svg"
+}
