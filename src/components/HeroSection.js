@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix, htmlToReact, markdownify} from '../utils';
 import SectionActions from './SectionActions';
-import Paypal from ''
+import Paypal from './Paypal'
 export default class HeroSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
