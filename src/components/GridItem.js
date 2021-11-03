@@ -20,7 +20,7 @@ export default class GridItem extends React.Component {
                 ],
                 // remove the application_context object if you need your users to add a shipping address
                 application_context: {
-                shipping_preference: 'NO_SHIPPING',
+                    shipping_preference: 'NO_SHIPPING',
                 },
             })
             .then((orderID) => {
