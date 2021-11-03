@@ -73,12 +73,12 @@ export default class HeroSection extends React.Component {
                 				<div className={classNames('hero__actions', 'btn-group', {'justify-center': align_x === 'center', 'justify-end': align_x === 'right'})}>
                 					<SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
                 				</div>
-                				)}
+                                )}
+                                {show_paypal && (
+                                    <Paypal amount={36} currency="USD"/>
+                                )}
                 			</div>
                             )} 
-                            {show_paypal && (
-                                <Paypal amount={36} currency="USD"/>
-                            )}
                 		</div>
                 	</div>
                 </section>
