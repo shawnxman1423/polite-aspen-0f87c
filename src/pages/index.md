@@ -368,19 +368,31 @@ sections:
         actions_width: full-width
       - title: "\U0001F431‍\U0001F464 Ninja"
         title_align: left
-        content: |
+        content: >
           ***
+
 
           ### $72 - 1 Year
 
+
           *$6 per month, billed once*
 
+
           *   **50% Saving**
+
           *   **Best Value**
-          *   ****
-          *   **Premium Support**
+
 
           ****
+
+
+          *   *   **Automated Unfollow, Stories & Reactions***   **Unlimited
+          hours per day***   **Access to Advanced settings***   **Blacklist**
+
+          *   *   **Premium Support**
+
+
+          ***
         content_align: left
         actions:
           - label: Start with Ninja
