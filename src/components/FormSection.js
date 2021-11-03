@@ -52,7 +52,8 @@ export default class FormSection extends React.Component {
              form_is_inline = true;
         }
         if(show_paypal) {
-        let form_fields = _.get(section, 'form_fields', null)
+            let form_fields = _.get(section, 'form_fields', null)
+            form_fields.find()
         }
         return (
             <React.Fragment>
