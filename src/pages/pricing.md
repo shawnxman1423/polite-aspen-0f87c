@@ -90,7 +90,8 @@ sections:
       - input_type: select
         name: Your plan
         default_value: lorem-ipsum
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
     submit_label: lorem-ipsum
     align_vert: top
