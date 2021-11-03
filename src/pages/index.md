@@ -403,7 +403,7 @@ sections:
 
           *$12 per month, billed once*
 
-          *   ** All of Premium Features **
+          *   All of Premium Features
         content_align: left
         actions:
           - label: Start with Professional
