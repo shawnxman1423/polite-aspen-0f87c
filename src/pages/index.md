@@ -449,6 +449,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/background.svg
+    show_paypal: true
 seo:
   title: Inspro - Free Instagram Bot
   description: |-
