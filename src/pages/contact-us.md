@@ -52,6 +52,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+    show_submit: true
 seo:
   title: ''
   description: ''
