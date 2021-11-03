@@ -384,8 +384,6 @@ sections:
           *   **Unlimited hours per day**
           *   **Access to Advanced settings**
           *   **Premium Support**
-
-          
         content_align: left
         actions:
           - label: Start with Ninja
