@@ -7,29 +7,57 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-  - type: grid_section
+    - type: grid_section
     grid_items:
       - title: "\U0001F423 Free"
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $0 - Life
+          ### $0 - Unlimited
+
           *No credit card required*
 
-          *   **1 Active Profile**
+          *   1 Active Profile
 
-          *   **Automated Likes, Follows & Comment likes**
+          *   Automated Likes, Follows & Comment likes
 
-          *   **Max. 5 hours operation time per day**
+          *   Max. 5 hours operation time per day
         content_align: left
         actions:
           - label: Try Inspro for FREE
-            url: /get-started
+            url: /thank-you
             style: primary
         actions_align: left
         actions_width: full-width
-        show_paypal: false
+      - title: "\U0001F431‍\U0001F464 Ninja"
+        title_align: left
+        content: |
+          ***
+
+          ### $72 - 1 Year
+
+          *$6 per month, billed once*
+
+          *   **50% Saving**
+          *   **Best Value**
+
+          ***
+
+          *   Automated Unfollow, Stories & Reactions
+
+          *   Unlimited hours per day
+
+          *   Access to Advanced settings
+
+          *   Premium Support
+        content_align: left
+        actions:
+          - label: Start with Ninja
+            url: /thank-you
+            style: primary
+        actions_align: left
+        actions_width: full-width
       - title: "\U0001F981 Professional"
         title_align: left
         content: |-
@@ -39,40 +67,12 @@ sections:
 
           *$12 per month, billed once*
 
-          *   **5 Active profiles**
-
-
-          *   **Automated Unfollow, Stories & Reactions**
-
-
-          *   **Unlimited hours per day**
-
-
-          *   **Access to Advanced settings**
-
-
-          *   **Blacklist**
+          *   All of Premium Features
+          
+          *   Regular Support
         content_align: left
         actions:
           - label: Start with Professional
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
-        show_paypal: false
-      - title: "\U0001F431‍\U0001F464 Ninja"
-        title_align: left
-        content: |-
-          ---
-
-          ### $96 - 1 Year
-
-          *$8 per month, billed once*
-
-          *   **Premium Support**
-        content_align: left
-        actions:
-          - label: Start with Ninja
             url: /thank-you
             style: primary
         actions_align: left
@@ -85,7 +85,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    title: Pricing
+    title: What we offer    title: Pricing
 seo:
   title: Pricing
   description: This is the pricing page
