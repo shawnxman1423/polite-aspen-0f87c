@@ -403,7 +403,7 @@ sections:
 
           *$12 per month, billed once*
 
-          *   **5 Active profiles**
+          *   **Short term**
 
 
           *   **Automated Unfollow, Stories & Reactions**
