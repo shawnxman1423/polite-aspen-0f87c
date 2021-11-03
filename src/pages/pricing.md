@@ -59,7 +59,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        show_paypal: true
+        show_paypal: false
       - title: "\U0001F431‍\U0001F464 Ninja"
         title_align: left
         content: |-
