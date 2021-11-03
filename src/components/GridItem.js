@@ -94,7 +94,7 @@ export default class GridItem extends React.Component {
                 					</div>
                                     )}
                                     {show_paypal && (
-                                    <div className={classNames('hero__media', 'my-2', 'cell-12', {'cell-md-5': (is_horiz && has_text) && (media_width === 'fourty'), 'cell-md-6': (is_horiz && has_text) && (media_width === 'fifty'), 'cell-md-7': (is_horiz && has_text) && (media_width === 'sixty')})}>
+                                    <div className={classNames('item__actions', 'my-2', 'cell-12', {'cell-md-5': (is_horiz && has_text) && (media_width === 'fourty'), 'cell-md-6': (is_horiz && has_text) && (media_width === 'fifty'), 'cell-md-7': (is_horiz && has_text) && (media_width === 'sixty')})}>
                                         <Paypal 
                                                 amount={36}
                                                 currency="USD"
