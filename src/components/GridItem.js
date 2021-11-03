@@ -29,17 +29,17 @@ export default class GridItem extends React.Component {
                 });
             };
 
-  // handles when a payment is confirmed for paypal
-  const onApprove = (data, actions) => {
-    return actions.order
-      .capture()
-      .then(function (details) {
-        const { payer } = details;
-        setSucceeded(true);
-        PayedEvent();
-      })
-      .catch((err) => setPaypalErrorMessage('Something went wrong.'));
-  };
+        // handles when a payment is confirmed for paypal
+        const onApprove = (data, actions) => {
+            return actions.order
+            .capture()
+            .then(function (details) {
+                const { payer } = details;
+                setSucceeded(true);
+                PayedEvent();
+            })
+            .catch((err) => setPaypalErrorMessage('Something went wrong.'));
+        };
         let section = _.get(this.props, 'section', null);
         let item = _.get(this.props, 'item', null);
         let columns = _.get(section, 'grid_cols', null) || 'three';
