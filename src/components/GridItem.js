@@ -40,7 +40,6 @@ export default class GridItem extends React.Component {
       })
       .catch((err) => setPaypalErrorMessage('Something went wrong.'));
   };
-  
         let section = _.get(this.props, 'section', null);
         let item = _.get(this.props, 'item', null);
         let columns = _.get(section, 'grid_cols', null) || 'three';
