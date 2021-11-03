@@ -10,8 +10,9 @@ const withPrefix = require("./src/utils/withPrefix").default;
 exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
 
     setHeadComponents([
-        <React.Fragment></React.Fragment>
+        <React.Fragment>
         <script defer src="https://www.paypal.com/sdk/js?client-id=YOUR_CLIENT_ID"></script>
+        </React.Fragment>
     ]);
 
     setPostBodyComponents([
