@@ -6,8 +6,10 @@ import {classNames, toStyleObj, withPrefix, htmlToReact, markdownify} from '../u
 import SectionActions from './SectionActions';
 
 
-
 export default class HeroSection extends React.Component {
+
+    PayPalButton = paypal.Buttons.driver("react", { React, ReactDOM });
+
     render() {
         let section = _.get(this.props, 'section', null);
         let padding_top = _.get(section, 'padding_top', null) || 'medium';
