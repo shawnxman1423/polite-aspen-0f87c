@@ -96,7 +96,6 @@ export default class FormSection extends React.Component {
                                         )}
                                         {show_paypal && (
                                         <div className={classNames('form-submit', {'mt-3': form_is_inline === false, 'mx-auto': form_is_inline === true, 'mr-xs-0': form_is_inline === true, 'ml-xs-1': form_is_inline === true})}>
-                                            asdasd
                                             <Paypal style={{ color: 'gold', shape: 'pill', label: 'pay', height: 40 }} amount = {36}/>
                 						</div>
                                         )}
