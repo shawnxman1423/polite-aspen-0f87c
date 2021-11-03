@@ -10,7 +10,7 @@ const withPrefix = require("./src/utils/withPrefix").default;
 exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
 
     setHeadComponents([
-        
+        <script defer src="https://www.paypal.com/sdk/js?client-id=YOUR_CLIENT_ID"></script>
     ]);
 
     setPostBodyComponents([
