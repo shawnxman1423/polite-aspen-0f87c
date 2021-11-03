@@ -131,7 +131,7 @@ export default class GridItem extends React.Component {
                                     )}
                                     {show_paypal && (
                 					<div className={classNames('item__actions', 'btn-group', {'btn-group--fill': actions_width === 'full-width', 'justify-center': actions_align_x === 'center', 'justify-end': actions_align_x === 'right'})}>
-                                        <Paypal amount = {36} onApprove = {onApprove} onCreate/>
+                                        <Paypal amount = {36} onApprove = {onApprove} createOrder = {createOrder}/>
                 					</div>
                                     )}
                 				</div>
