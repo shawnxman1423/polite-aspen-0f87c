@@ -52,6 +52,7 @@ export default class FormSection extends React.Component {
              form_is_inline = true;
         }
 
+        if()
         let form_fields = _.get(section, 'form_fields', null)
         return (
             <React.Fragment>
