@@ -404,6 +404,7 @@ sections:
           *$12 per month, billed once*
 
           *   All of Premium Features
+          
           *   Regular Support
         content_align: left
         actions:
