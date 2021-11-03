@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix, markdownify} from '../utils';
 import FormField from './FormField';
+import Paypal from "gatsby-plugin-paypal"
 
 export default class FormSection extends React.Component {
     render() {
