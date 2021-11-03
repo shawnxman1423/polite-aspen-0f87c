@@ -105,6 +105,32 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     show_submit: false
+      - title_align: left
+    content_align: left
+    form_position: top
+    form_width: fourty
+    form_layout: stacked
+    enable_card: true
+    form_id: pay-form
+    form_fields:
+      - input_type: select
+        name: Your plan
+        default_value: Ninja - Best Value 50% Save!
+        options:
+          - Professional
+        is_required: false
+    submit_label: lorem-ipsum
+    align_vert: middle
+    padding_top: none
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section
+    show_submit: false
 seo:
   title: Pricing
   description: This is the pricing page
