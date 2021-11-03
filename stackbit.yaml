@@ -1740,3 +1740,12 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
+  paypal:
+    type: object
+    label: Paypal
+    fields:
+      - name: Paypal
+        type: string
+        label: paypal
+    labelField: Paypal
+nodeVersion: 16
