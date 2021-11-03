@@ -94,7 +94,7 @@ export default class GridItem extends React.Component {
                 					</div>
                                     )}
                                     {show_paypal && (
-                                    <div className={classNames('item__actions', 'my-2', 'cell-12', {'cell-md-5': (is_horiz && has_text) && (media_width === 'fourty'), 'cell-md-6': (is_horiz && has_text) && (media_width === 'fifty'), 'cell-md-7': (is_horiz && has_text) && (media_width === 'sixty')})}>
+                					<div className={classNames('item__actions', 'btn-group', {'btn-group--fill': actions_width === 'full-width', 'justify-center': actions_align_x === 'center', 'justify-end': actions_align_x === 'right'})}>
                                         <Paypal 
                                                 amount={36}
                                                 currency="USD"
