@@ -14,7 +14,7 @@ export default class GridItem extends React.Component {
                 purchase_units: [
                 {
                     amount: {
-                    value: 36,
+                        value: 36,
                     },
                 },
                 ],
