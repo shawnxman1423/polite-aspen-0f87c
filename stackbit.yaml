@@ -1410,7 +1410,7 @@ models:
         description: The type of the object
         const: form_section
         hidden: true
-      - name: ''
+      - name: show_submit
         type: boolean
   feature:
     type: object
