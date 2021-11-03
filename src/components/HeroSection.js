@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDom
+import ReactDOM from "react-dom"
 import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix, htmlToReact, markdownify} from '../utils';
