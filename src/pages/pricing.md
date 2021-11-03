@@ -24,10 +24,7 @@ sections:
 
           *   Max. 5 hours operation time per day
         content_align: left
-        actions:
-          - label: Try Inspro for FREE
-            url: /thank-you
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
         show_paypal: false
