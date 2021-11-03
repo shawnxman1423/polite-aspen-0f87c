@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from "react-dom"
 import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix, htmlToReact, markdownify} from '../utils';
@@ -9,7 +8,6 @@ import SectionActions from './SectionActions';
 export default class HeroSection extends React.Component {
 
     render() {
-        let PayPalButton = paypal.Buttons.driver("react", { React, ReactDOM });
         let section = _.get(this.props, 'section', null);
         let padding_top = _.get(section, 'padding_top', null) || 'medium';
         let padding_bottom = _.get(section, 'padding_bottom', null) || 'medium';
