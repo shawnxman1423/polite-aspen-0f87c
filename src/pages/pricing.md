@@ -29,7 +29,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        show_paypal: true
+        show_paypal: false
       - title: "\U0001F981 Professional"
         title_align: left
         content: |-
