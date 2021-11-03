@@ -1411,7 +1411,7 @@ models:
         const: form_section
         hidden: true
       - name: ''
-        type: string
+        type: boolean
   feature:
     type: object
     label: Feature
