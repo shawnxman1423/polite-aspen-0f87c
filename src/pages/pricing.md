@@ -81,7 +81,7 @@ sections:
     title: Pricing
   - title_align: left
     content_align: left
-    form_position: bottom
+    form_position: top
     form_width: fourty
     form_layout: stacked
     enable_card: true
