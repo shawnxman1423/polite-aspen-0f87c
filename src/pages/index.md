@@ -366,6 +366,23 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
+      - title: "\U0001F431‍\U0001F464 Ninja"
+        title_align: left
+        content: |
+          ***
+
+          ### $72 - 1 Year
+
+          *$6 per month, billed once*
+
+          *   **Premium Support**
+        content_align: left
+        actions:
+          - label: Start with Ninja
+            url: /thank-you
+            style: primary
+        actions_align: left
+        actions_width: full-width
       - title: "\U0001F981 Professional"
         title_align: left
         content: |-
@@ -391,23 +408,6 @@ sections:
         content_align: left
         actions:
           - label: Start with Professional
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
-      - title: "\U0001F431‍\U0001F464 Ninja"
-        title_align: left
-        content: |
-          ***
-
-          ### $72 - 1 Year
-
-          *$6 per month, billed once*
-
-          *   **Premium Support**
-        content_align: left
-        actions:
-          - label: Start with Ninja
             url: /thank-you
             style: primary
         actions_align: left
