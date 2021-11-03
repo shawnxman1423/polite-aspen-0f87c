@@ -1,6 +1,5 @@
 import React from 'react';
 import _ from 'lodash';
-import Paypal from "gatsby-plugin-paypal"
 import {classNames, toStyleObj, withPrefix, htmlToReact, markdownify} from '../utils';
 import SectionActions from './SectionActions';
 
