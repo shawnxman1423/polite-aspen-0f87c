@@ -95,14 +95,6 @@ export default class GridItem extends React.Component {
                                         <Paypal amount={36} currency="USD"/>
                 					</div>
                                     )}
-                                    {show_paypal && (
-                					<div className={classNames('item__actions', 'btn-group', {'btn-group--fill': actions_width === 'full-width', 'justify-center': actions_align_x === 'center', 'justify-end': actions_align_x === 'right'})}>
-                                        <Paypal 
-                                                amount={36}
-                                                currency="USD"
-                                        />
-                                    </div>
-                                    )}
                 				</div>
                 			</div>
                 			)}
