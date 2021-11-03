@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 import {classNames, withPrefix, markdownify} from '../utils';
 import SectionActions from './SectionActions';
+import Paypal from "gatsby-plugin-paypal"
 
 export default class GridItem extends React.Component {
     render() {
