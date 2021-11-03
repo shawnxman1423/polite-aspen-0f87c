@@ -95,6 +95,7 @@ export default class GridItem extends React.Component {
                                         <div>
                                         <h1>asdasd</h1>
                                         <Paypal amount={36} currency="USD"/>
+                                        </div>
                 					</div>
                                     )}
                 				</div>
