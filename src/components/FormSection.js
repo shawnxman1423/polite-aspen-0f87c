@@ -51,8 +51,7 @@ export default class FormSection extends React.Component {
         if (((form_field_count < 2) && (form_layout === 'inline'))) {
              form_is_inline = true;
         }
-
-        if()
+        
         let form_fields = _.get(section, 'form_fields', null)
         return (
             <React.Fragment>
