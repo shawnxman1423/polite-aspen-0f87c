@@ -23,7 +23,7 @@ export default class HeroSection extends React.Component {
         let media_pos = _.get(section, 'media_position', null) || 'top';
         let is_horiz = false;
         let is_vert = false;
-        let show_paypal = _.get(section, 'title', null);
+        let show_paypal = _.get(section, 'show_paypal', null);
         if ((((_.get(section, 'title', null) || _.get(section, 'subtitle', null)) || _.get(section, 'content', null)) || _.get(section, 'actions', null))) {
              has_text = true;
         }
