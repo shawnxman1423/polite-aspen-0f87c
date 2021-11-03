@@ -18,6 +18,7 @@ logicFields:
   - grid_section.background_image_opacity
   - cta_section.background_image_opacity
   - form_section.background_image_opacity
+nodeVersion: 16
 models:
   config:
     type: config
@@ -1739,4 +1740,12 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
+  paypal:
+    type: object
+    label: Paypal
+    fields:
+      - name: Paypal
+        type: string
+        label: paypal
+    labelField: Paypal
 nodeVersion: 16
