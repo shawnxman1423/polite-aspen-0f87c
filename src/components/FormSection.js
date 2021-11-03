@@ -53,7 +53,7 @@ export default class FormSection extends React.Component {
         }
         if(show_paypal) {
             let form_fields = _.get(section, 'form_fields', null)
-            form_fields.find(field => field.name == "Profe")
+            print(form)
         }
         return (
             <React.Fragment>
