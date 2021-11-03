@@ -41,12 +41,6 @@ sections:
         default_value: Enter your message here.
         options: []
         is_required: true
-      - input_type: select
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
     submit_label: Send
     align_vert: top
     padding_top: medium
