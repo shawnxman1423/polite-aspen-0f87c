@@ -91,7 +91,7 @@ sections:
         name: Your plan
         default_value: lorem-ipsum
         options:
-          - lorem-ipsum
+          - Ninja - Best Value 50% savings!
           - lorem-ipsum
         is_required: false
     submit_label: lorem-ipsum
