@@ -378,7 +378,7 @@ sections:
           *   **50% Saving**
           *   **Best Value**
 
-          <!---->
+          ***
 
           *   **Automated Unfollow, Stories & Reactions**
           *   **Unlimited hours per day**
