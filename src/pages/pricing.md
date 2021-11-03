@@ -92,7 +92,7 @@ sections:
         default_value: lorem-ipsum
         options:
           - Ninja - Best Value 50% Save!
-          - lorem-ipsum
+          - Professional
         is_required: false
     submit_label: lorem-ipsum
     align_vert: top
