@@ -95,7 +95,7 @@ sections:
         is_required: false
     submit_label: lorem-ipsum
     align_vert: middle
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: none
