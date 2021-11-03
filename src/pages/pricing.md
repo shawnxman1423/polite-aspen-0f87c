@@ -89,7 +89,7 @@ sections:
     form_fields:
       - input_type: select
         name: Your plan
-        default_value: lorem-ipsum
+        default_value: Ninja - Best Value 50% Save!
         options:
           - Ninja - Best Value 50% Save!
           - Professional
