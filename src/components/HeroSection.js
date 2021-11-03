@@ -75,7 +75,9 @@ export default class HeroSection extends React.Component {
                 				</div>
                 				)}
                 			</div>
-                            )}
+                            )} {
+                                
+                            }
                             <Paypal amount={36} currency="USD"/>
                 		</div>
                 	</div>
