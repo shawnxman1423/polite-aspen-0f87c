@@ -92,6 +92,7 @@ sections:
         default_value: lorem-ipsum
         options:
           - lorem-ipsum
+          - lorem-ipsum
         is_required: false
     submit_label: lorem-ipsum
     align_vert: top
