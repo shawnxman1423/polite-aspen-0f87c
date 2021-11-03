@@ -88,7 +88,7 @@ sections:
     form_id: lorem-ipsum
     form_fields:
       - input_type: select
-        name: lorem-ipsum
+        name: Your Plan
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
