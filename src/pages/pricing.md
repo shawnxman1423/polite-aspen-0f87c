@@ -7,7 +7,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    - type: grid_section
+  - type: grid_section
     grid_items:
       - title: "\U0001F423 Free"
         title_align: left
