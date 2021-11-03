@@ -5,7 +5,6 @@ import _ from 'lodash';
 import {classNames, toStyleObj, withPrefix, htmlToReact, markdownify} from '../utils';
 import SectionActions from './SectionActions';
 
-const PayPalButton = paypal.Buttons.driver("react", { React, ReactDOM });
 
 
 export default class HeroSection extends React.Component {
