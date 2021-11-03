@@ -39,8 +39,7 @@ sections:
 
           *$6 per month, billed once*
 
-          *   **50% Saving**
-          *   **Best Value**
+          **50% Saving - Best Value**
 
           ***
 
@@ -68,7 +67,7 @@ sections:
           *$12 per month, billed once*
 
           *   All of Premium Features
-          
+
           *   Regular Support
         content_align: left
         actions:
