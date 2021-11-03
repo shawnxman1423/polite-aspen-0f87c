@@ -105,7 +105,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     show_submit: false
-    - title_align: left
+  - title_align: left
     content_align: left
     form_position: top
     form_width: fourty
