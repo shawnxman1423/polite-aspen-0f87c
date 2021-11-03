@@ -28,6 +28,13 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
+        },
+        {
+            resolve: `gatsby-plugin-paypal`,
+            options: {
+              clientId: `AaaEWMK0RV8r4IB_6yGA46BCS9Ys19qaqFbNgYM1pvdaLYqEorCJlf0b9HLgA1adc65xGqxkjXPmmGHi`,
+              currency: `USD`, // Optional
+            }
         }
     ]
 };

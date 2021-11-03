@@ -1,9 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
-
+import Paypal from "gatsby-plugin-paypal"
 import {classNames, toStyleObj, withPrefix, htmlToReact, markdownify} from '../utils';
 import SectionActions from './SectionActions';
-
 
 export default class HeroSection extends React.Component {
 
@@ -24,6 +23,7 @@ export default class HeroSection extends React.Component {
         let media_pos = _.get(section, 'media_position', null) || 'top';
         let is_horiz = false;
         let is_vert = false;
+        let show_paypal = false;
         if ((((_.get(section, 'title', null) || _.get(section, 'subtitle', null)) || _.get(section, 'content', null)) || _.get(section, 'actions', null))) {
              has_text = true;
         }
@@ -76,6 +76,14 @@ export default class HeroSection extends React.Component {
                 				)}
                 			</div>
                             )}
+                            {show_paypal && (
+                			<div className={classNames('hero__media', 'my-2', 'cell-12', {'cell-md-5': (is_horiz && has_text) && (media_width === 'fourty'), 'cell-md-6': (is_horiz && has_text) && (media_width === 'fifty'), 'cell-md-7': (is_horiz && has_text) && (media_width === 'sixty')})}>
+                				 <Paypal 
+                                        amount={36}
+                                        currency="USD"
+                                   />
+                			</div>
+                		    )}
                 		</div>
                 	</div>
                 </section>
