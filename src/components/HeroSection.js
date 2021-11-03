@@ -8,7 +8,7 @@ import SectionActions from './SectionActions';
 
 export default class HeroSection extends React.Component {
 
-    PayPalButton = paypal.Buttons.driver("react", { React, ReactDOM });
+    let PayPalButton = paypal.Buttons.driver("react", { React, ReactDOM });
 
     render() {
         let section = _.get(this.props, 'section', null);
