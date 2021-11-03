@@ -375,7 +375,12 @@ sections:
 
           *$6 per month, billed once*
 
+          *   **50% Saving**
+          *   **Best Value**
+          *   ****
           *   **Premium Support**
+
+          ****
         content_align: left
         actions:
           - label: Start with Ninja
