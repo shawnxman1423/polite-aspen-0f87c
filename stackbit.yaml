@@ -1412,6 +1412,7 @@ models:
         hidden: true
       - name: show_submit
         type: boolean
+        label: Should show Submit Button
   feature:
     type: object
     label: Feature
