@@ -88,11 +88,11 @@ export default class FormSection extends React.Component {
                 							))
                                         )}
                                         {show_submit && (
-                                            
-                                        )}
-                						<div className={classNames('form-submit', {'mt-3': form_is_inline === false, 'mx-auto': form_is_inline === true, 'mr-xs-0': form_is_inline === true, 'ml-xs-1': form_is_inline === true})}>
+<div className={classNames('form-submit', {'mt-3': form_is_inline === false, 'mx-auto': form_is_inline === true, 'mr-xs-0': form_is_inline === true, 'ml-xs-1': form_is_inline === true})}>
                 							<button type="submit" className="btn btn--primary">{_.get(section, 'submit_label', null)}</button>
                 						</div>
+                                        )}
+                						
                 					</div>
                 				</form>
                 			</div>
