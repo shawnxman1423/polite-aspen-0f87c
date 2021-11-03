@@ -111,7 +111,7 @@ sections:
     form_width: fourty
     form_layout: stacked
     enable_card: true
-    form_id: pay-form
+    form_id: pay-form2
     form_fields:
       - input_type: select
         name: Your plan
