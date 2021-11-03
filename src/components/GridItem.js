@@ -24,7 +24,7 @@ export default class GridItem extends React.Component {
                 },
             })
             .then((orderID) => {
-                setOrderID(orderID);
+                //setOrderID(orderID);
                 return orderID;
             });
         };
