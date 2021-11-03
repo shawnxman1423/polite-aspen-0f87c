@@ -404,18 +404,6 @@ sections:
           *$12 per month, billed once*
 
           *   ****
-
-
-          *   **Automated Unfollow, Stories & Reactions**
-
-
-          *   **Unlimited hours per day**
-
-
-          *   **Access to Advanced settings**
-
-
-          *   **Blacklist**
         content_align: left
         actions:
           - label: Start with Professional
