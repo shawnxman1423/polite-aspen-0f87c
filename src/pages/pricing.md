@@ -85,7 +85,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    title: What we offer    title: Pricing
+    title: Pricing
 seo:
   title: Pricing
   description: This is the pricing page
