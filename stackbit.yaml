@@ -1584,7 +1584,7 @@ models:
         description: >-
           Add padding (space) around the image. Used only when "Enable cards" is
           set to true
-      - name: ''
+      - name: show_paypal
         type: string
   form_field:
     type: object
