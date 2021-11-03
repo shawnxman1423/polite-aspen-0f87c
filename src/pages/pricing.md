@@ -79,7 +79,7 @@ sections:
     has_border: false
     background_color: none
     title: Pricing
-  - title: lorem-ipsum
+  - title: 'Select '
     subtitle: lorem-ipsum
     title_align: left
     content: >-
