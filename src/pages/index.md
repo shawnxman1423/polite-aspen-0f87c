@@ -20,7 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
     media_width: fourty
-    show_paypal: false
+    show_paypal: true
   - actions: []
     grid_items:
       - title_align: center
