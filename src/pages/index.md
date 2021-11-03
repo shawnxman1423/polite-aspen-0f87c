@@ -381,8 +381,11 @@ sections:
           ***
 
           *   **Automated Unfollow, Stories & Reactions**
+
           *   **Unlimited hours per day**
+
           *   **Access to Advanced settings**
+          
           *   **Premium Support**
         content_align: left
         actions:
