@@ -69,8 +69,7 @@ export default class GridItem extends React.Component {
                 					<img src={withPrefix(_.get(item, 'image', null))} alt={_.get(item, 'image_alt', null)} className={classNames('', {'mx-auto': image_align_x === 'center', 'ml-auto': image_align_x === 'right'})} />
                 				</div>
                 			</div>
-                            )}
-                            <Paypal amount={36} currency="USD"/>
+                			)}
                 			{has_text && (
                 			<div className={classNames({'cell-12': is_horiz, 'cell-md-9': is_horiz && (image_width === 'twenty-five'), 'cell-md-8': is_horiz && (image_width === 'thirty-three'), 'cell-md-7': is_horiz && (image_width === 'fourty'), 'cell-md-6': is_horiz && (image_width === 'fifty'), 'cell-md-5': is_horiz && (image_width === 'sixty'), 'order-md-first': has_image && (image_pos === 'right'), 'order-first': has_image && (image_pos === 'bottom'), 'mb-auto': (is_card && (image_pos === 'bottom')) && (image_has_padding === false)})}>
                 				<div className={classNames('item__body', {'p-3': has_image && is_card_no_padding, 'px-sm-4': has_image && is_card_no_padding, 'pb-sm-4': (has_image && is_card_no_padding) && (image_pos !== 'bottom'), 'pt-sm-4': (has_image && is_card_no_padding) && (image_pos === 'bottom'), 'py-md-4': (has_image && is_card_no_padding) && is_horiz, 'pr-md-4': (has_image && is_card_no_padding) && (image_pos === 'left'), 'pl-md-3': (has_image && is_card_no_padding) && (image_pos === 'left'), 'pl-md-4': (has_image && is_card_no_padding) && (image_pos === 'right'), 'pr-md-3': (has_image && is_card_no_padding) && (image_pos === 'right')})}>
