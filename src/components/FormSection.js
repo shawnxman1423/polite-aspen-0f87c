@@ -27,6 +27,7 @@ export default class FormSection extends React.Component {
         let is_vert = false;
         let form_field_count = 0;
         let form_is_inline = false;
+        let show_submit = false;
         if (_.get(section, 'content', null)) {
              has_text = true;
         }
