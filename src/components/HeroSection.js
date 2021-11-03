@@ -8,9 +8,9 @@ import SectionActions from './SectionActions';
 
 export default class HeroSection extends React.Component {
 
-    let PayPalButton = paypal.Buttons.driver("react", { React, ReactDOM });
 
     render() {
+        let PayPalButton = paypal.Buttons.driver("react", { React, ReactDOM });
         let section = _.get(this.props, 'section', null);
         let padding_top = _.get(section, 'padding_top', null) || 'medium';
         let padding_bottom = _.get(section, 'padding_bottom', null) || 'medium';
