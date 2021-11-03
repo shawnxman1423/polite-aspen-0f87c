@@ -11,7 +11,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
 
     setHeadComponents([
         <React.Fragment>
-        <script defer src="https://www.paypal.com/sdk/js?client-id=YOUR_CLIENT_ID"></script>
+            <script defer src="https://www.paypal.com/sdk/js?client-id=YOUR_CLIENT_ID"></script>
         </React.Fragment>
     ]);
 
