@@ -1587,6 +1587,7 @@ models:
       - name: show_paypal
         type: boolean
         default: false
+        label: Show Paypal
   form_field:
     type: object
     label: Form field
