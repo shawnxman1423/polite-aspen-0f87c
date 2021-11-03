@@ -80,17 +80,6 @@ sections:
     background_color: none
     title: Pricing
   - title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     content_align: left
     form_position: bottom
     form_width: fifty
