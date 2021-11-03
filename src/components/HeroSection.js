@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactDom
 import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix, htmlToReact, markdownify} from '../utils';
