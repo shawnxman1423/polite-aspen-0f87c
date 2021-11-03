@@ -1404,16 +1404,16 @@ models:
           - no-repeat
         default: no-repeat
         description: Repeat the image to cover the whole area
+      - name: show_submit
+        type: boolean
+        label: Should show Submit Button
+        default: true
       - type: string
         name: type
         label: Object Type
         description: The type of the object
         const: form_section
         hidden: true
-      - name: show_submit
-        type: boolean
-        label: Should show Submit Button
-        default: true
   feature:
     type: object
     label: Feature
