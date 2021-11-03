@@ -9,25 +9,25 @@ export default class GridItem extends React.Component {
     render() {
 
          const createOrder = (data, actions) => {
-                return actions.order
-                .create({
-                    purchase_units: [
-                    {
-                        amount: {
-                        value: yearly ? 100 : 36,
-                        },
+            return actions.order
+            .create({
+                purchase_units: [
+                {
+                    amount: {
+                    value: yearly ? 100 : 36,
                     },
-                    ],
-                    // remove the application_context object if you need your users to add a shipping address
-                    application_context: {
-                    shipping_preference: 'NO_SHIPPING',
-                    },
-                })
-                .then((orderID) => {
-                    setOrderID(orderID);
-                    return orderID;
-                });
-            };
+                },
+                ],
+                // remove the application_context object if you need your users to add a shipping address
+                application_context: {
+                shipping_preference: 'NO_SHIPPING',
+                },
+            })
+            .then((orderID) => {
+                setOrderID(orderID);
+                return orderID;
+            });
+        };
 
         // handles when a payment is confirmed for paypal
         const onApprove = (data, actions) => {
