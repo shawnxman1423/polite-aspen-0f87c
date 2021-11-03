@@ -1410,6 +1410,8 @@ models:
         description: The type of the object
         const: form_section
         hidden: true
+      - name: ''
+        type: string
   feature:
     type: object
     label: Feature
