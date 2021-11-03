@@ -72,10 +72,7 @@ sections:
 
           *   Regular Support
         content_align: left
-        actions:
-          - label: Start with Professional
-            url: /thank-you
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
         show_paypal: false
