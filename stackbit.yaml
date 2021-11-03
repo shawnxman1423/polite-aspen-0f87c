@@ -1413,6 +1413,7 @@ models:
       - name: show_submit
         type: boolean
         label: Should show Submit Button
+        default: true
   feature:
     type: object
     label: Feature
