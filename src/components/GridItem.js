@@ -36,7 +36,7 @@ export default class GridItem extends React.Component {
             .then(function (details) {
                 const { payer } = details;
                 //setSucceeded(true);
-                PayedEvent();
+                //PayedEvent();
             })
             .catch((err) => setPaypalErrorMessage('Something went wrong.'));
         };
