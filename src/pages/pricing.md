@@ -87,7 +87,7 @@ sections:
     enable_card: true
     form_id: lorem-ipsum
     form_fields:
-      - input_type: text
+      - input_type: select
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
