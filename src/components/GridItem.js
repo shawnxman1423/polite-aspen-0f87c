@@ -94,7 +94,7 @@ export default class GridItem extends React.Component {
                                         <SectionActions {...this.props} actions={_.get(item, 'actions', null)} />
                                         <div>
                                         <h1>asdasd</h1>
-                                        <Paypal amount={36} currency="USD"/>
+                                        
                                         </div>
                 					</div>
                                     )}
