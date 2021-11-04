@@ -375,8 +375,7 @@ sections:
 
           *$6 per month, billed once*
 
-          *   **50% Saving**
-          *   **Best Value**
+          **50% Saving - Best Value**
 
           ***
 
