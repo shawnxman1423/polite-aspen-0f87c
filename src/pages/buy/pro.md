@@ -45,7 +45,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: "\U0001F9F2 Add your account"
+      - title: "\U0001F9F2 Click Activate"
         title_align: left
         content: |
           Login to one or more of your accounts.
