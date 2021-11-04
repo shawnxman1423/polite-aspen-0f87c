@@ -13,7 +13,7 @@ sections:
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
-    padding_bottom: medium
+    padding_bottom: none
     has_border: false
     background_color: none
     background_image_opacity: 0
