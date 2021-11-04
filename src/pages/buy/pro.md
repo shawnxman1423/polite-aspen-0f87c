@@ -34,7 +34,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     show_submit: true
-    show_paypal: false
+    show_paypal: true
     type: form_section
 seo:
   title: ''
