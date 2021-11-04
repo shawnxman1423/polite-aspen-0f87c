@@ -35,7 +35,7 @@ sections:
         image_align: left
         image_has_padding: true
         actions: []
-      - title: "\U0001F984 Install the APK"
+      - title: "\U0001F984 Open Inspro App"
         title_align: left
         content: >
           Allow your device to ***Install from unknown sources*** and wait until
