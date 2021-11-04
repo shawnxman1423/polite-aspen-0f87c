@@ -14,7 +14,7 @@ export default class FormSection extends React.Component {
         } else {
             amount = 72
         }
-        console.log(amount)
+        console.log(form_id)
         
         const createOrder = (data, actions) => {
             return actions.order
