@@ -24,6 +24,7 @@ sections:
     show_paypal: true
     type: form_section
     title: Professional - $36
+    subtitle: $12/month
   - type: grid_section
     grid_items:
       - title: "\U0001F4BE Open your Email"
