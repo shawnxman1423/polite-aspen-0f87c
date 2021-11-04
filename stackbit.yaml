@@ -1408,15 +1408,15 @@ models:
         type: boolean
         label: Should show Submit Button
         default: true
+      - name: show_paypal
+        type: boolean
+        default: false
       - type: string
         name: type
         label: Object Type
         description: The type of the object
         const: form_section
         hidden: true
-      - name: show_paypal
-        type: boolean
-        default: false
   feature:
     type: object
     label: Feature
