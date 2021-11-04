@@ -19,7 +19,7 @@ export default class FormSection extends React.Component {
                     description: "3 Months access"
                 },
                 {
-                    reference_id: "1_months",
+                    reference_id: "1_year",
                     amount: {
                         value: 72,
                     },
