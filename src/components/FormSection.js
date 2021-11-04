@@ -12,6 +12,7 @@ export default class FormSection extends React.Component {
             .create({
                 purchase_units: [
                 {
+                    reference_id:,
                     amount: {
                         value: 36,
                     },
