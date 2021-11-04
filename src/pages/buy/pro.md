@@ -71,7 +71,7 @@ sections:
         content_align: left
         actions:
           - label: Blog
-            url: '#'
+            url: /blog
             style: link
             has_icon: false
             icon: arrow-left
