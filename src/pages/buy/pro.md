@@ -1,8 +1,7 @@
 ---
 title: Professional
 sections:
-  - subtitle: lorem-ipsum
-    title_align: left
+  - title_align: left
     content_align: left
     form_position: bottom
     form_width: fifty
