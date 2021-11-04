@@ -23,7 +23,7 @@ sections:
     show_submit: false
     show_paypal: true
     type: form_section
-    title: Professional - 36
+    title: 'Professional - 36$ '
   - type: grid_section
     grid_items:
       - title: "\U0001F4BE Open your Email"
