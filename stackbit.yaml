@@ -1416,6 +1416,7 @@ models:
         hidden: true
       - name: show_paypal
         type: boolean
+        default: false
   feature:
     type: object
     label: Feature
