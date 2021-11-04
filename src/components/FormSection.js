@@ -15,7 +15,7 @@ export default class FormSection extends React.Component {
                     amount: {
                         value: 36,
                     },
-                },
+                }
                 ],
                 // remove the application_context object if you need your users to add a shipping address
                 application_context: {
