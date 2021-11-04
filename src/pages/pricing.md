@@ -53,7 +53,7 @@ sections:
           - label: Start with Ninja
             url: /buy/ninja
             style: primary
-        actions_align: left
+        actions_align: bottom
         actions_width: full-width
         show_paypal: false
       - title: "\U0001F981 Professional"
