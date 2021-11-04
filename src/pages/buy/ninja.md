@@ -1,8 +1,7 @@
 ---
 title: 'Ninja '
 sections:
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
