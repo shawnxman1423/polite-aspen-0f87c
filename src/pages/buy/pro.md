@@ -28,7 +28,7 @@ sections:
       - title: "\U0001F4BE Open your Email"
         title_align: left
         content: |
-          Download **Inspro Android Application** to your **android** device.
+          You will get an email from us with you **Activation Code**
         content_align: left
         image_alt: Section item 1 icon
         image_position: top
