@@ -93,11 +93,6 @@ export default class GridItem extends React.Component {
                                         <SectionActions {...this.props} actions={_.get(item, 'actions', null)} />
                 					</div>
                                     )}
-                                    {show_paypal && (
-                					<div className={classNames('item__actions', 'btn-group', {'btn-group--fill': actions_width === 'full-width', 'justify-center': actions_align_x === 'center', 'justify-end': actions_align_x === 'right'})}>
-                                        <Paypal style={{ color: 'gold', shape: 'pill', label: 'pay', height: 40 }} amount = {36} onApprove = {onApprove} createOrder = {createOrder}/>
-                					</div>
-                                    )}
                 				</div>
                 			</div>
                 			)}
