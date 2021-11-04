@@ -64,7 +64,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: "\U0001F512 Twick and Play"
+      - title: "\U0001F512 Whats Next?"
         title_align: left
         content: >
           After you activation, you can **Twick and Play** with the settings as
