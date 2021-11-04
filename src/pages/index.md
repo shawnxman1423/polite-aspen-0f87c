@@ -391,7 +391,7 @@ sections:
           - label: Start with Ninja
             url: /thank-you
             style: primary
-        actions_align: left
+        actions_align: center
         actions_width: full-width
       - title: "\U0001F981 Professional"
         title_align: left
