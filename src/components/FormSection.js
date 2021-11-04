@@ -27,7 +27,6 @@ export default class FormSection extends React.Component {
             });
         };
 
-        // handles when a payment is confirmed for paypal
         const onApprove = (data, actions) => {
             return actions.order
             .capture()
