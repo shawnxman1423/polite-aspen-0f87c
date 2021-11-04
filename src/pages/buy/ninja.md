@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Ninja - '
 sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
