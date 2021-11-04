@@ -23,8 +23,7 @@ sections:
     show_submit: false
     show_paypal: true
     type: form_section
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
