@@ -22,6 +22,7 @@ sections:
     background_image_repeat: no-repeat
     show_submit: false
     type: form_section
+    show_paypal: true
 seo:
   title: ''
   description: ''
