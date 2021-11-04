@@ -24,6 +24,8 @@ sections:
     show_paypal: true
     type: form_section
     title: Professional - $36
+    content: |
+      $12/month - 3 Months access
   - type: grid_section
     grid_items:
       - title: "\U0001F4BE Open your Email"
