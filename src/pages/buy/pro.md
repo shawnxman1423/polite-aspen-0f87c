@@ -25,7 +25,7 @@ sections:
     type: form_section
   - type: grid_section
     grid_items:
-      - title: "\U0001F4BE Download Inspro APK"
+      - title: "\U0001F4BE Open your Email"
         title_align: left
         content: |
           Download **Inspro Android Application** to your **android** device.
