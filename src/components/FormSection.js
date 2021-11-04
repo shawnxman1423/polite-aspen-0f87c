@@ -16,13 +16,6 @@ export default class FormSection extends React.Component {
                         value: 36,
                     },
                 },
-                {
-                    reference_id: "1_year",
-                    amount: {
-                        value: 72,
-                    },
-                    description: "1 Year access"
-                },
                 ],
                 // remove the application_context object if you need your users to add a shipping address
                 application_context: {
