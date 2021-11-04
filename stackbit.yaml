@@ -1414,8 +1414,8 @@ models:
         description: The type of the object
         const: form_section
         hidden: true
-      - name: ''
-        type: string
+      - name: show_paypal
+        type: boolean
   feature:
     type: object
     label: Feature
