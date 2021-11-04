@@ -54,7 +54,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: "\U0001F308 Go through Inspro"
+      - title: "\U0001F308 Congrats"
         title_align: left
         content: |
           Look at all the features and capabilities of Inspro.
