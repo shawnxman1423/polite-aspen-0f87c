@@ -87,15 +87,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    actions:
-      - label: Android Authority - How to Install APKs
-        url: 'https://www.androidauthority.com/how-to-install-apks-31494/'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
+    actions: []
     has_border: true
 seo:
   title: ''
