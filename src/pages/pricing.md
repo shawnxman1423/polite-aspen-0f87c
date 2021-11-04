@@ -86,13 +86,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: pay-form
-    form_fields:
-      - input_type: select
-        name: Your plan
-        default_value: Ninja - Best Value 50% Save!
-        options:
-          - Professional
-        is_required: false
+    form_fields: []
     submit_label: lorem-ipsum
     align_vert: middle
     padding_top: none
