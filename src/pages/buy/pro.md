@@ -66,12 +66,8 @@ sections:
         image_has_padding: true
       - title: "\U0001F512 Whats Next?"
         title_align: left
-        content: >
-          After you activation, you can **Twick and Play** with the settings as
-          you wish.
-
-
-          We encourage you to be careful and make good decisions.
+        content: |
+          Read our **Blog & Guides** to learn what you can do with **Inspro**!
         content_align: left
         actions: []
         actions_align: left
