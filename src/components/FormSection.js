@@ -7,7 +7,6 @@ import Paypal from "gatsby-plugin-paypal"
 
 export default class FormSection extends React.Component {
     render() {
-
         const createOrder = (data, actions) => {
             return actions.order
             .create({
@@ -42,7 +41,7 @@ export default class FormSection extends React.Component {
                 //setPaypalErrorMessage('Something went wrong.')
             });
         };
-        
+
         let section = _.get(this.props, 'section', null);
         let padding_top = _.get(section, 'padding_top', null) || 'medium';
         let padding_bottom = _.get(section, 'padding_bottom', null) || 'medium';
