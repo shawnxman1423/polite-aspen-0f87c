@@ -57,11 +57,9 @@ sections:
       - title: "\U0001F308 Congratulations"
         title_align: left
         content: |
-          Look at all the features and capabilities of Inspro.
+          *Hurray! You are now a **Premium Member**.*
 
-          When you are ready, you can **start** Inspro.
-
-          *The default settings are calibrated to be slow and safe.*
+          *Now you can access all of our amazing features.*
         content_align: left
         image_alt: Section item 4 icon
         image_position: top
