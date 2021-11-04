@@ -48,7 +48,6 @@ export default class FormSection extends React.Component {
                 //setPaypalErrorMessage('Something went wrong.')
             });
         };
-        let section = _.get(this.props, 'section', null);
         let padding_top = _.get(section, 'padding_top', null) || 'medium';
         let padding_bottom = _.get(section, 'padding_bottom', null) || 'medium';
         let bg_color = _.get(section, 'background_color', null) || 'none';
