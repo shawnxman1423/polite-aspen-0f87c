@@ -25,7 +25,7 @@ sections:
     type: form_section
     title: Ninja - $72
     content: |
-      $12/month - 3 Months access
+      $6/month - 3 Months access
   - type: grid_section
     grid_items:
       - title: "\U0001F4BE Open your Email"
