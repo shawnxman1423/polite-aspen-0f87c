@@ -34,15 +34,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        actions:
-          - label: Download APK (Android 7+)
-            url: '#'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
+        actions: []
       - title: "\U0001F984 Install the APK"
         title_align: left
         content: >
