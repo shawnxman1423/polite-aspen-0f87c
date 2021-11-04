@@ -70,7 +70,7 @@ sections:
           Read our **Blog & Guides** to learn what you can do with **Inspro**!
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Blog
             url: '#'
             style: link
             has_icon: false
