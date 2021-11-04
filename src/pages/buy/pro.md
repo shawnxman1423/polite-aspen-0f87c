@@ -96,14 +96,6 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: Nextpit - How to Install APKs
-        url: 'https://www.nextpit.com/android-for-beginners-what-is-an-apk-file'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
     has_border: true
 seo:
   title: ''
