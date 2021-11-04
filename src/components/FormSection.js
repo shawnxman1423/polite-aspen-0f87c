@@ -15,6 +15,7 @@ export default class FormSection extends React.Component {
                     amount: {
                         value: 36,
                     },
+                    description
                 },
                 {
                     amount: {
