@@ -21,7 +21,7 @@ export default class FormSection extends React.Component {
                 purchase_units: [
                 {
                     amount: {
-                        value: 36,
+                        value: amount,
                     },
                 }
                 ],
