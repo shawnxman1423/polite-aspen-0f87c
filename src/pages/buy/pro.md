@@ -12,7 +12,7 @@ sections:
     form_fields: []
     submit_label: lorem-ipsum
     align_vert: top
-    padding_top: medium
+    padding_top: none
     padding_bottom: none
     has_border: false
     background_color: none
