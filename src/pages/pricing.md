@@ -49,7 +49,7 @@ sections:
 
           *   Premium Support
         content_align: left
-                actions:
+        actions:
           - label: Start with Ninja
             url: /thank-you
             style: primary
