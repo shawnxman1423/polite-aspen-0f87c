@@ -362,7 +362,7 @@ sections:
         content_align: left
         actions:
           - label: Try Inspro for FREE
-            url: /thank-you
+            url: /get-started
             style: primary
         actions_align: left
         actions_width: full-width
@@ -404,7 +404,7 @@ sections:
           *$12 per month, billed once*
 
           *   All of Premium Features
-          
+
           *   Regular Support
         content_align: left
         actions:
