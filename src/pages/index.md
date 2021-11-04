@@ -408,7 +408,7 @@ sections:
         content_align: left
         actions:
           - label: Start with Professional
-            url: /thank-you
+            url: /buy/pro
             style: primary
         actions_align: left
         actions_width: full-width
