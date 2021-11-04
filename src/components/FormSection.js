@@ -9,7 +9,12 @@ export default class FormSection extends React.Component {
     render() {
         let form_id = _.get(section, 'form_id', null)
         var amount = 0
-        if(form_id == "buy_pro")
+        if(form_id == "buy_pro") {
+            amount = 36
+        } else {
+            amount = 72
+        }
+        
         const createOrder = (data, actions) => {
             return actions.order
             .create({
