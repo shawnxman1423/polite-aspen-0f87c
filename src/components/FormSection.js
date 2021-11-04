@@ -7,6 +7,8 @@ import Paypal from "gatsby-plugin-paypal"
 
 export default class FormSection extends React.Component {
     render() {
+        let form_id = _.get(section, 'form_id', null)
+
         const createOrder = (data, actions) => {
             return actions.order
             .create({
