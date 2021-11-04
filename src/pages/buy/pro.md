@@ -81,28 +81,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: "\U0001F942 Visit Premium plans"
-        title_align: left
-        content: >
-          Go look at our **premium** plans and see if one of them fits your
-          needs!
-        content_align: left
-        actions:
-          - label: Plans
-            url: /pricing
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
