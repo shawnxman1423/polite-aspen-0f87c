@@ -38,8 +38,8 @@ sections:
       - title: "\U0001F984 Open Inspro App"
         title_align: left
         content: >
-          Allow your device to ***Install from unknown sources*** and wait until
-          the APK is installed.
+          In our app, navigate to **Subscription** and enter your **Activation
+          Code**.
         content_align: left
         image_alt: Section item 2 icon
         image_position: top
