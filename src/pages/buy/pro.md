@@ -57,9 +57,8 @@ sections:
       - title: "\U0001F308 Congratulations"
         title_align: left
         content: |
-          *Hurray! You are now a **Premium Member**.*
-
-          *Now you can access all of our amazing features.*
+          *Hurray! You are now a **Premium Member**.
+          Now you can access all of our amazing features.*
         content_align: left
         image_alt: Section item 4 icon
         image_position: top
