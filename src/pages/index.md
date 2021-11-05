@@ -452,7 +452,7 @@ sections:
     background_image: images/background.svg
     show_paypal: false
 seo:
-  title: Inspro - Free Instagram Bot
+  title: Inspro - Free Instagram Bot - No Proxy - No Spam - Fast
   description: |-
     Gain Active Followers & Boost Your Engagement.
     No Bots, Spam or Fake Results.
