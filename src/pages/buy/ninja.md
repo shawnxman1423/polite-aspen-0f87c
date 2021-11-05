@@ -57,7 +57,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: "\U0001F308 Congratulations"
+      - title: "\U0001F37E Congratulations"
         title_align: left
         content: |
           *Hurray! You are now a **Premium Member**.
