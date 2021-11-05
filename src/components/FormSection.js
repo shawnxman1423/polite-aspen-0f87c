@@ -14,7 +14,7 @@ export default class FormSection extends React.Component {
         if(form_id == "buy_pro") {
             amount = 36
         } else {
-            amount = 72
+            amount = 100
         }
         
         const createOrder = (data, actions) => {
