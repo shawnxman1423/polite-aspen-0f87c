@@ -28,7 +28,7 @@ sections:
       $8.34/month - 1 Year access
   - type: grid_section
     grid_items:
-      - title: "\U0001F4BE Open your Email"
+      - title: ✉️ Open your Email
         title_align: left
         content: |
           You will get an email from us with you **Activation Code**
