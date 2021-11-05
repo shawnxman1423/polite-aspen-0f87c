@@ -28,7 +28,7 @@ sections:
       $12/month - 3 Months access
   - type: grid_section
     grid_items:
-      - title: "\U0001F4BE Open your Email"
+      - title: ✉️ Open your Email
         title_align: left
         content: |
           You will get an email from us with you **Activation Code**
@@ -57,7 +57,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: "\U0001F308 Congratulations"
+      - title: "\U0001F37E Congratulations"
         title_align: left
         content: |
           *Hurray! You are now a **Premium Member**.
@@ -67,7 +67,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: "\U0001F512 Whats Next?"
+      - title: "\U0001F929 Whats Next?"
         title_align: left
         content: |
           Read our **Blog & Guides** to learn what you can do with **Inspro**!
