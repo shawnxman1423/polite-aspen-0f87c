@@ -67,7 +67,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: "\U0001F512 Whats Next?"
+      - title: "\U0001F929 Whats Next?"
         title_align: left
         content: |
           Read our **Blog & Guides** to learn what you can do with **Inspro**!
