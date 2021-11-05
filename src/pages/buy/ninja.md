@@ -23,7 +23,7 @@ sections:
     show_submit: false
     show_paypal: true
     type: form_section
-    title: Ninja - $72
+    title: Ninja - $99
     content: |
       $6/month - 1 Year access
   - type: grid_section
