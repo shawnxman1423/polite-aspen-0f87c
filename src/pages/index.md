@@ -371,11 +371,11 @@ sections:
         content: |
           ***
 
-          ### $72 - 1 Year
+          ### $99 - 1 Year
 
-          *$6 per month, billed once*
+          *$8.34 per month, billed once*
 
-          **50% Saving - Best Value**
+          **30% Saving - Best Value**
 
           ***
 
